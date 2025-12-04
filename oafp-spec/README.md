@@ -98,10 +98,22 @@ We are currently in **Code Freeze**.
 
 Please review `CONTRIBUTING.md` before submitting PRs.
 
-## 📄 License
+## 📄 License & Legal
 
-Specification text: **CC BY 4.0 International**.
-Schemas and Code samples: **MIT**.
+### Specification License (Copyleft)
+The specification text, architecture definitions, and protocol logic contained in this repository are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+**Intent of this License:**
+The goal of using CC BY-SA 4.0 is to permanently protect the open nature of this standard.
+*   **ShareAlike:** If you modify, extend, or build upon this specification (e.g., creating a "Layer 2.5"), you **must** distribute your contributions under the same **CC BY-SA 4.0** license.
+*   **No Proprietary Forks:** It is legally prohibited to create a proprietary, closed-source version or extension of this specification text. All derivatives must remain free and open to the community.
+
+### Note on Implementation
+To facilitate broad adoption, the use of the concepts, data structures (JSON-LD), and logic defined in this specification to create **software implementations** (libraries, applications, agents) is permitted without triggering the ShareAlike clause for the software itself.
+
+However, any changes to the **specification document itself** remain subject to the ShareAlike requirement.
 
 ---
 **Maintained by the OAP Foundation**
